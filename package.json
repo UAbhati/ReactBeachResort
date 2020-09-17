@@ -14,12 +14,12 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "CI= react-scripts build": "3.4.3",
+    "react-scripts build": "3.4.3",
     "styled-components": "^5.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "CI = react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
